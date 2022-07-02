@@ -1,13 +1,13 @@
 
 //首页的栏目可以自己设置标题名称和图片，key不用改动，是列表页的识别标志，每个栏目的顺序也可以随意排序。
 {"Home": [
-{"key":"APP","title":"","pic":"https://zhxy.neocities.org/biu/%E5%9B%BE%E6%A0%87/BackgroundEraser_20220702_014732781.png"},
-{"key":"网页","title":"","pic":"https://zhxy.neocities.org/biu/%E5%9B%BE%E6%A0%87/%E8%87%AA%E5%AE%9A.png"},
-{"key":"采集","title":"","pic":"https://zhxy.neocities.org/biu/%E5%9B%BE%E6%A0%87/%E9%87%87%E9%9B%86.png"},
-{"key":"直播","title":"","pic":"https://zhxy.neocities.org/biu/%E5%9B%BE%E6%A0%87/%E7%9B%B4%E6%92%AD.png"},
-{"key":"历史","title":"","pic":"https://zhxy.neocities.org/biu/%E5%9B%BE%E6%A0%87/%E5%8E%86%E5%8F%B2.png"},
-{"key":"收藏","title":"","pic":"https://zhxy.neocities.org/biu/%E5%9B%BE%E6%A0%87/%E6%94%B6%E8%97%8F.png"},
-{"key":"推送","title":"","pic":"https://www.notabug.org/zhaxy/biu/raw/master/%e5%9b%be%e6%a0%87/%e6%8e%a8%e9%80%81.png"},
+{"key":"APP","title":"","pic":"https://raw.githubusercontents.com/zxyadc/TvBox/main/tubiao/主页.png"},
+{"key":"网页","title":"","pic":"https://raw.githubusercontents.com/zxyadc/TvBox/main/tubiao/自定.png"},
+{"key":"采集","title":"","pic":"https://raw.githubusercontents.com/zxyadc/TvBox/main/tubiao/采集.png"},
+{"key":"直播","title":"","pic":"https://raw.githubusercontents.com/zxyadc/TvBox/main/tubiao/直播.png"},
+{"key":"历史","title":"","pic":"https://raw.githubusercontents.com/zxyadc/TvBox/main/tubiao/历史.png"},
+{"key":"收藏","title":"","pic":"https://raw.githubusercontents.com/zxyadc/TvBox/main/tubiao/收藏.png"},
+{"key":"推送","title":"","pic":"https://raw.githubusercontents.com/zxyadc/TvBox/main/tubiao/推送.png"},
 //{"key":"轮播","title":"","pic":"https://www.notabug.org/zhaxy/biu/raw/master/%e5%9b%be%e6%a0%87/%e8%bd%ae%e6%92%ad.png"}
 ],
 //填写APP接口，支持以下5种接口格式。
